@@ -1,0 +1,41 @@
+[33mcommit c38b1685db9680ac38b1a18703a655c43426e3f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32madicionando-before-each-no-login[m[33m)[m
+Author: camilaqueirozleite <ernanicamila@hotmail.com>
+Date:   Mon Apr 13 17:12:44 2026 +0100
+
+    Adicionei o beforeEach para acesso a página de login
+
+[33mcommit 73a900933273aeced2e3711c15933ad300224b32[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 32657ad ebeb11d
+Author: CAMILA LEITE <ernanicamila@hotmail.com>
+Date:   Mon Apr 13 10:59:30 2026 +0100
+
+    Merge pull request #2 from camilaqueirozleite/adicionando-novo-teste-login-falho
+    
+    Adicionei um teste para validar o login com credenciais inválidas
+
+[33mcommit ebeb11d98b5aa3c981d321b1000970ff41149e2e[m[33m ([m[1;31morigin/adicionando-novo-teste-login-falho[m[33m, [m[1;32madicionando-novo-teste-login-falho[m[33m)[m
+Author: camilaqueirozleite <ernanicamila@hotmail.com>
+Date:   Mon Apr 13 10:55:23 2026 +0100
+
+    Adicionei um teste para validar o login com credenciais inválidas
+
+[33mcommit 32657ad2f29dc6513792f6bccd1b177c26e73889[m
+Merge: d19cf9b 9c97afc
+Author: CAMILA LEITE <ernanicamila@hotmail.com>
+Date:   Sun Apr 12 20:21:26 2026 +0100
+
+    Merge pull request #1 from camilaqueirozleite/projeto-inicial
+    
+    Adicionei os arquivos iniciais e o primeiro teste de login
+
+[33mcommit 9c97afc30aad65ae5a9ded90084f0f76a61c7f20[m[33m ([m[1;31morigin/projeto-inicial[m[33m, [m[1;32mprojeto-inicial[m[33m)[m
+Author: camilaqueirozleite <ernanicamila@hotmail.com>
+Date:   Sun Apr 12 20:07:07 2026 +0100
+
+    Adicionei os arquivos iniciais e o primeiro teste de login
+
+[33mcommit d19cf9bcc49874c21e65475da354ebe9b21c4f87[m
+Author: CAMILA LEITE <ernanicamila@hotmail.com>
+Date:   Sun Apr 12 16:56:47 2026 +0100
+
+    Initial commit
