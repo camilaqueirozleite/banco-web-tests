@@ -25,6 +25,7 @@ Este projeto faz parte da minha formação prática como **QA em Testes Manuais,
 
 ## 📂 Estrutura do projeto
 
+```
 banco-web-tests/
 │
 ├── cypress/
@@ -35,6 +36,8 @@ banco-web-tests/
 ├── cypress.config.js # Configuração do Cypress
 ├── package.json
 └── README.md
+
+```
 
 ## 🧪 Funcionalidades testadas
 
