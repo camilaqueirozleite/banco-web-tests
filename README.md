@@ -36,8 +36,9 @@ banco-web-tests/
 ├── package.json
 └── README.md
 
----
+Código
 
+# 🔧 **FIM**
 ## 🧪 Funcionalidades testadas
 
 ### ✔ Login  
