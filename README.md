@@ -25,8 +25,16 @@ Este projeto faz parte da minha formação prática como **QA em Testes Manuais,
 
 ## 📂 Estrutura do projeto
 
-
-# 🔧 **FIM**
+banco-web-tests/
+│
+├── cypress/
+│   ├── e2e/          # Testes automatizados
+│   ├── fixtures/     # Dados de teste
+│   ├── support/      # Comandos e configurações
+│
+├── cypress.config.js # Configuração do Cypress
+├── package.json
+└── README.md
 
 ---
 
